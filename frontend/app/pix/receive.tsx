@@ -111,7 +111,7 @@ export default function PIXReceiveScreen() {
 
   const copyPixKey = async () => {
     if (pixAccount?.pix_key) {
-      await Clipboard.setStringAsync(pixAccount.pix_key);
+      Clipboard.setString(pixAccount.pix_key);
       Alert.alert('Copiado!', 'Chave PIX copiada para a área de transferência');
     }
   };
