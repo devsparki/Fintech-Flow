@@ -10,8 +10,6 @@ Um aplicativo fintech moderno construído com **React Native (Expo)**, **FastAPI
 
 ## 📱 Demonstração
 
-**URL do App:** https://digital-banking-22.preview.emergentagent.com
-
 ## 🌟 Funcionalidades Principais
 
 ### 🔐 **Autenticação & Segurança**
